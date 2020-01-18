@@ -1,0 +1,49 @@
+html, body	{
+	margin: 0;
+}
+
+.nav 	{
+	margin: 16px;
+	<!-- outline: 1px solid red; -->
+	<!-- background: gray; -->
+	
+	
+}
+.links	{
+	<!-- outline: 1px solid green; -->
+	width: 55%;
+	margin: 0 0 0 350px;
+	/* padding: 9px; */
+}
+
+
+a	{
+	/* outline: 1px solid green;  */
+	text-decoration: none;
+	display: inline-block;
+	padding: 9px;
+	margin: auto;
+	color: black;
+	font-size: 17px;
+}
+
+a:hover		{
+	font-size: 20px;
+	color: gray;
+}
+
+a.active	{
+	color: gray;
+	font-size: 20px;
+}
+h1	{
+	color: red;
+	width: 65%;
+	font-size: 40px;
+	font-family: 'Times New Roman', Times, serif;
+	margin: auto;
+	text-align: center;
+	padding: 100px;
+}
+
+
